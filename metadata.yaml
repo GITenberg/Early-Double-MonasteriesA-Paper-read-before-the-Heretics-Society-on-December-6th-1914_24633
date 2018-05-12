@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26635'
     url: http://www.gutenberg.org/2009/agents/26635
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24633#Early-Double-MonasteriesA-Paper-read-before-the-Heretics-Society-on-December-6th-1914
 gutenberg_issued: '2008-02-18'
 gutenberg_type: Text
 identifiers:
