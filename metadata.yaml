@@ -1,0 +1,27 @@
+_repo: Early-Double-MonasteriesA-Paper-read-before-the-Heretics-Society-on-December-6th-1914_24633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stoney, Constance
+    gutenberg_agent_id: '26635'
+    url: http://www.gutenberg.org/2009/agents/26635
+description: ''
+gutenberg_issued: '2008-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'BX'
+- !lcsh 'Monasticism and religious orders'
+title: 'Early Double Monasteries
+
+  A Paper read before the Heretics'' Society on December 6th, 1914'
+url: http://www.gutenberg.org/ebooks/24633
